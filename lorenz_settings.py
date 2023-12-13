@@ -1,0 +1,21 @@
+N_UNITS = 600
+
+MIN_DELAY = 1
+MAX_DELAY = 40
+DELAY_DIST_OFFSET = 6
+
+# time constants
+ALPHA = 50
+BETA = 1e-3
+GAMMA = 7e-1
+DT = 1e-3
+
+# regularization
+LMBDA1 = 1
+LMBDA2 = 1
+LMBDA3 = 1e2
+U_FACTOR = 1e5
+W_FACTOR = 10
+
+FAST_GAMMA = 40
+TARGET_ACTIVITY = 0.025

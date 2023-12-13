@@ -1,0 +1,13 @@
+checkpoints/
+.ipynb_checkpoints/
+__pycache__/
+legacy/
+plots/
+appendix/
+spiking/
+*.sh
+*.mp4
+*.gif
+*.pdf
+*.svg
+*-pop-os*
